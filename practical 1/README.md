@@ -47,6 +47,8 @@ Salaries rose for the 25–35 and 35–45 groups.
 The 45–60 group showed stable but mixed incomes.
 
 Insight: Salary generally increases with age/experience, with the median being more reliable when outliers are present.
+
+
 Problem 4 — NumPy Array Operations (Summary)
 
 A 3×3 NumPy array was created.
