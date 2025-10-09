@@ -44,11 +44,13 @@ There are **no real individuals** represented in this dataset.
 
 ---
 
-## Conclusion
+# Conclusion
 
-1. **Duplicate Analysis**: Duplicates were identified using the `prof` column, and average and standard deviation of age were computed both for all observations and for a filtered dataset with one observation per instructor (up to 94 instructors).  
-2. **Course Division Evaluation**: Bar charts show that instructors teaching Higher-division courses tend to receive slightly higher average teaching evaluations than those teaching Lower-division courses.  
-3. **Age vs Evaluation**: Scatter plots indicate the relationship between instructor age and teaching evaluation scores, highlighting trends and variability.  
-4. **Gender Differences**: Gender-differentiated scatter plots reveal minimal differences between male and female instructors in evaluation patterns.  
-5. **Tenure Effects**: Scatter plots combining gender and tenure illustrate how experience and demographics may influence evaluation scores.
+1. **Data Type**: The teachers’ rating dataset is **cross-sectional**, as it captures multiple instructors’ data at a single point in time rather than over a period.  
+2. **Students Statistics**: The number of students per instructor varies, with the dataset showing the calculated **mean, median, minimum, and maximum values**.  
+3. **Descriptive Summary**: A descriptive statistics table provides an overview of central tendency, dispersion, and distribution for key numeric variables such as `age`, `eval`, `beauty`, and `students`.  
+4. **Beauty Distribution**: The histogram of the `beauty` variable shows a roughly **normal distribution**, with most instructors clustered around the mean and a few outliers.  
+5. **Gender Differences in Beauty**: Average beauty scores for male and female instructors are very similar, with comparable **means and standard deviations**, suggesting minimal difference by gender.  
+6. **Tenure by Gender**: A slightly higher percentage of male instructors are tenured compared to females, but the difference is small; tenure status is **fairly balanced across genders**.
+.
 
