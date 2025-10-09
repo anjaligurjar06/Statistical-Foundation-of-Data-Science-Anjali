@@ -41,3 +41,12 @@ There are **no real individuals** represented in this dataset.
 - 💻 **Jupyter Notebook / Google Colab** – for interactive analysis  
 
 ---
+
+## Conclusion
+
+1. **Duplicate Analysis**: Duplicates were identified using the `prof` column, and average and standard deviation of age were computed both for all observations and for a filtered dataset with one observation per instructor (up to 94 instructors).  
+2. **Course Division Evaluation**: Bar charts show that instructors teaching Higher-division courses tend to receive slightly higher average teaching evaluations than those teaching Lower-division courses.  
+3. **Age vs Evaluation**: Scatter plots indicate the relationship between instructor age and teaching evaluation scores, highlighting trends and variability.  
+4. **Gender Differences**: Gender-differentiated scatter plots reveal minimal differences between male and female instructors in evaluation patterns.  
+5. **Tenure Effects**: Scatter plots combining gender and tenure illustrate how experience and demographics may influence evaluation scores.
+
