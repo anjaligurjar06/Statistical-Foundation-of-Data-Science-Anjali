@@ -2,8 +2,8 @@
 
 ## 🧭 Objective
 
-The purpose of this practical is to apply probability and hypothesis testing concepts using the Teachers’ Rating Dataset.
-The task involves calculating the probabilities of evaluation scores within certain ranges and conducting a two-tailed Z-test using data from a normal distribution.
+The purpose of this practical is to apply probability and hypothesis testing concepts using the Teachers’ Rating Dataset. Students will calculate probabilities of evaluation scores within specific ranges and conduct a two-tailed Z-test to compare sample means with a known population mean.
+
 ---
 
 ## 📊 Dataset Description
