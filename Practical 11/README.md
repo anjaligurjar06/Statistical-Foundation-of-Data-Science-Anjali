@@ -1,4 +1,4 @@
-# 🌞 Sunspot Time Series Analysis
+#  Sunspot Time Series Analysis
 
 ## 🧭 Objective
 The aim of this practical is to analyze **monthly mean total sunspot numbers** using Python libraries such as **NumPy**, **pandas**, and **Matplotlib**, and to **model the phenomenon using a Gamma distribution**.  
